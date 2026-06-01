@@ -1,8 +1,19 @@
-# Glass agent
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+    <img src="assets/logo-light.png" alt="Glass agent logo" width="240">
+  </picture>
+</p>
 
-*(formerly: Pharos)*
+<h1 align="center">Glass agent</h1>
 
-A voice AI companion for Meta Ray-Ban Display smart glasses, powered by [Hermes Agent](https://github.com/NousResearch/hermes-agent).
+<p align="center"><em>(formerly: Pharos)</em></p>
+
+<p align="center">
+  A voice AI companion for Meta Ray-Ban Display smart glasses,<br>
+  powered by <a href="https://github.com/NousResearch/hermes-agent">Hermes Agent</a>.
+</p>
 
 ## Why This Project
 
